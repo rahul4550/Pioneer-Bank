@@ -1,0 +1,35 @@
+body{
+    padding: 100px;
+}
+.title-bank{
+    text-align: center;
+}
+
+.submit{
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 40px;
+}
+
+#tran-area{
+    display: none;
+}
+
+.tran{
+    margin: 0 20px;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.dep{
+    background-color: slateblue;
+}
+
+.with{
+    background-color: lightsalmon;
+}
+.bala{
+    background-color: orange;
+}
